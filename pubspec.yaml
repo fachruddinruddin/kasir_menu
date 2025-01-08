@@ -11,15 +11,12 @@ dependencies:
     sdk: flutter
   file_picker: ^5.0.0
   shared_preferences: ^2.0.6
-  firebase_core: ^1.10.6
-  firebase_auth: ^3.3.3
-  cloud_firestore: ^3.1.5
   sqflite: ^2.0.2
   path: ^1.8.0
 
 dev_dependencies:
   flutter_test:
-    sdk: flutter1
+    sdk: flutter
   flutter_lints: ^3.0.0
 
 flutter:
